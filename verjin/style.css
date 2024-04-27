@@ -1,0 +1,153 @@
+*{
+			margin: 0;
+			padding: 0;
+ }
+		header{
+			width: 100%;
+			height: 100px;
+			background-color: #00204A;
+			display: flex;
+			justify-content: space-between;
+			color: white;
+			font-size: 25px;
+			font-family: sans-serif;
+			}
+
+		#logo, #menuBar{
+			margin-top: 30px;
+			margin-left: 50px;
+		}
+		#menuBar a{
+			margin-right: 25px;
+			text-decoration: none;
+			color: white;
+		}
+		footer{
+			padding: 50px;
+			background-color: #00204A;
+			display: flex;
+			justify-content: space-around;
+			color: white;
+			font-size: 18px;
+		}
+		footer h4 {
+			font-size: 25px;
+			margin-bottom: 25px;
+		}
+		.info{
+			width: 20%
+		}
+		.link a{
+			color: white;
+			text-decoration: none;
+		}
+		.text{
+			padding: 70px;
+			font-size: 18px;
+			background-color: skyblue;
+			display: flex;
+		}
+		button{
+			background-color: #00BBF0;
+			border: none;
+		}
+		.text img{
+			margin-right: 50px;
+			width: 400px;
+			height: 400px;
+		}
+		.inf{
+			padding: 70px;
+			font-size: 18px;
+			background-color: skyblue;
+		}
+		.inf img{
+			margin: 0 40% 4% 40%;
+			width: 150px;
+			height: 150px;
+		}
+		.inf1, .inf2, .inf3{
+			width: 70%;
+			margin: 0 15%;
+		}
+		.inf h3{
+			text-align: center;
+			font-family: "Sofia", sans-serif;
+  			font-size: 40px;
+  			text-shadow: 3px 3px 3px #ababab;
+			
+		}
+		.cr{
+			text-align: center;
+			font-family: "Sofia", sans-serif;
+  			font-size: 30px;
+  			text-shadow: 3px 3px 3px #ababab;			
+		}
+		.wy{
+			padding: 50px;
+			background-color: skyblue;
+			font-size: 18px;
+			display: flex;
+		}
+		.wy img{
+			width: 100%;
+			height: 550px;
+		}
+		.team{
+			padding: 70px;
+			font-size: 18px;
+			background-color: skyblue;
+			display: flex;
+		}
+		.team p{
+			font-family: "Sofia", sans-serif;
+  			font-size: 30px;
+		}
+		.team1, .team2, .team3{
+			margin-left: 15%;
+		}
+		.team img{
+			width: 150px;
+			height: 150px;
+		}
+		.log{
+			padding: 70px;
+			font-size: 18px;
+			background-color: skyblue;
+		}
+		.log input{
+			padding-left: 10px;
+			width: 25%;
+			height: 30px;
+		}
+		.log img{
+			margin-right: 140px;
+			width: 150px;
+			height: 150px;			
+		}
+		.log h4{
+			font-family: "Audiowide", sans-serif;
+		}
+		.in{
+			margin-left: 35%;
+		}
+		#subbb{
+			width: 75px;
+			height: 50px;	
+		}
+		#sb{
+			width: 0px;
+			height: 0px;
+			cursor: pointer;
+			font-family: "Sofia", sans-serif;
+  			font-size: 30px;
+  			text-shadow: 3px 3px 3px #ababab;	
+		}
+		#gz{
+			width: 0px;
+			height: 0px;
+			cursor: pointer;
+			font-family: "Sofia", sans-serif;
+  			font-size: 30px;
+  			text-shadow: 3px 3px 3px #ababab;	
+		}
